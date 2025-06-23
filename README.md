@@ -27,4 +27,4 @@ This project is a Spider-Man themed responsive landing page created using basic 
 
 ### Note:
 
-Use the provided files and images for proper working.
+* Use the provided files and images for proper working.
